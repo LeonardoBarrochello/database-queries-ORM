@@ -1,5 +1,5 @@
 interface IFindUserWithGamesDTO {
-  user_id: string;
+  user_id : string;
 }
 
 interface IFindUserByFullNameDTO {
